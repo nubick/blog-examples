@@ -1,0 +1,6 @@
+ShadowAndOutline/Library/*
+ShadowAndOutline/Temp/*
+ShadowAndOutline/obj/*
+*.sln
+*.suo
+*.csproj
