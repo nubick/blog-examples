@@ -1,6 +1,11 @@
-ShadowAndOutline/Library/*
-ShadowAndOutline/Temp/*
-ShadowAndOutline/obj/*
 *.sln
 *.suo
 *.csproj
+
+ShadowAndOutline/Library/*
+ShadowAndOutline/Temp/*
+ShadowAndOutline/obj/*
+
+CanvasGroup/Library/*
+CanvasGroup/Temp/*
+CanvasGroup/obj/*
